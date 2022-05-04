@@ -2,4 +2,4 @@ Esta es un ejemplo
 
 del curso git y github v2
 
-Hoy hablaremos de su vida
+Hoy hablaremos de su vida y obra maestra
